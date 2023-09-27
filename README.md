@@ -30,5 +30,5 @@ There are several files in this repository:
    - **QuarterlyIncomeStatementsFY23_Modified.xlsx:** quarterly income statement of Microsoft up to FY2023, obtained from the above Excel financial statement
 
 ## **Blog Post**
-The project is outlined in my blog post, in the Medium link I posted below. The Medium link also contains all of the sources used for this project.
+The project is outlined in my blog post, in the Medium link I posted below. The Medium link also contains all of the sources used for this project.<br>
 https://medium.com/@usbsikennaldy/machine-learning-and-the-ability-to-predict-stock-prices-fa20c72133df
