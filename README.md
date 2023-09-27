@@ -1,6 +1,6 @@
 # **Creating a Machine Learning Model to Predict Stock Prices**
 
-## **DISCLAIMER:**
+## **DISCLAIMER**
 **This project is created fully for informational and educational purposes. Predicting the stock market price is a highly complex task that involves great financial risks, and past performance is not indicative of future results. Please consult a qualified financial advisor before making any form of investment decisions, and I strongly discourage you from using my machine learning model as a basis for your financial decisions. All data gathered for this project's use is obtained from open-source websites, and no information used in this project is obtained through unauthorized means.**
 
 ## **Background**
@@ -30,5 +30,5 @@ There are several files in this repository:
    - **QuarterlyIncomeStatementsFY23_Modified.xlsx:** quarterly income statement of Microsoft up to FY2023, obtained from the above Excel financial statement
 
 ## **Blog Post**
-The project is outlined in my blog post, in the Medium link I posted below. The Medium link also contains all of the sources used for this projecct.
-(link here)
+The project is outlined in my blog post, in the Medium link I posted below. The Medium link also contains all of the sources used for this project.
+https://medium.com/@usbsikennaldy/machine-learning-and-the-ability-to-predict-stock-prices-fa20c72133df
